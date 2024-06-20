@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct MetalStartApp: App {
+struct MandelbrotApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
